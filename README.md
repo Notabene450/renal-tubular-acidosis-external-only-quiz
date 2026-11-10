@@ -1,2 +1,5 @@
-# renal-tubular-acidosis-external-only-quiz
-Renal Tubular Acidosis · External Only · Quiz
+# Renal Tubular Acidosis · External Only · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
